@@ -1,0 +1,67 @@
+/* // src/components/HomePage.css */
+.menu-icon {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+  }
+  
+  .menu {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 15px;
+    z-index: 10;
+  }
+  
+  .menu.show {
+    display: flex;
+  }
+  
+  .menu-item {
+    margin-bottom: 15px; /* Adds space between the items */
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .auth-buttons {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  }
+  
+  .auth-buttons button {
+    margin-left: 10px;
+  }
+  
+  .order-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .content {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  /* Adjusting the spacing between elements (Restaurant Name, Menu, Locations, etc.) */
+  .menu-item {
+    margin-bottom: 20px; /* More space between items */
+    font-size: 18px;
+    text-align: left;
+  }
+  
+  .menu-item:first-child {
+    font-size: 22px; /* Larger size for the restaurant name */
+    font-weight: bold;
+  }
+  
+  /* Optionally add padding or margins to the entire menu if you want to adjust space around it */
+  .menu {
+    padding: 20px;
+  }

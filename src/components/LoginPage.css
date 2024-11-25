@@ -1,0 +1,19 @@
+/* src/components/LoginPage.css */
+
+.login-container {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .login-container input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+  }
+  
+  .login-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
