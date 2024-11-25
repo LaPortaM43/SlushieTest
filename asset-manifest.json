@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SlushieTest/static/css/main.36639d0e.css",
-    "main.js": "/SlushieTest/static/js/main.5485916e.js",
+    "main.js": "/SlushieTest/static/js/main.5995d1f0.js",
     "index.html": "/SlushieTest/index.html",
     "main.36639d0e.css.map": "/SlushieTest/static/css/main.36639d0e.css.map",
-    "main.5485916e.js.map": "/SlushieTest/static/js/main.5485916e.js.map"
+    "main.5995d1f0.js.map": "/SlushieTest/static/js/main.5995d1f0.js.map"
   },
   "entrypoints": [
     "static/css/main.36639d0e.css",
-    "static/js/main.5485916e.js"
+    "static/js/main.5995d1f0.js"
   ]
 }
